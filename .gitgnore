@@ -1,2 +1,13 @@
-Hello/
-InstCombine/
+Hello/*
+InstCombine/*
+Instrumentation/*
+IPO/*
+MyPass/*
+ObjCARC/*
+Scalar/*
+Utils/*
+Vectorize/*
+
+LLVMBuild.txt
+CMakeLists.txt
+Makefile
